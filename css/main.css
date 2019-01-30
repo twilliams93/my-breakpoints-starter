@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS document */
+
+/* ----------- Tablets no larger than 768px wide  ----------- */
+@media (min-width: 768px) {
+	body {
+    background: #c1ffff;
+   }
+}
+
+/* ----------- Monitors no larger than 1200px wide ----------- */
+@media (min-width: 1200px) {
+	body {
+	background: #f2f2f2;
+	}
+}
